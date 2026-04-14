@@ -9,6 +9,14 @@ Dieses Repository enthält den vollständigen, validierten Lernkarten-Datensatz 
 
 ---
 
+
+## 📄 Dokumentation
+
+| Datei | Beschreibung |
+|---|---|
+| [`docs/AP1_Glossar_UserGuide_v1.9.8.pdf`](docs/AP1_Glossar_UserGuide_v1.9.8.pdf) | User Guide (9 Seiten) — Web-App, Lernkarten-Schema, Notion-Import, JSON-Datensatz, Hashtag-Taxonomie, Versionshistorie |
+
+
 ## Dateiübersicht
 
 ```
