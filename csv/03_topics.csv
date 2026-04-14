@@ -1,0 +1,28 @@
+﻿ID,Name,Modul,Modul ID,Prüfung,Prüfung ID,Anzahl Karten
+b001d2ac-9898-46bf-83cd-2036bd72d7f8,1 – Nötige Kenntnisse,Hardware-Berechnungen,9733b0c6-b81c-46f2-aac5-567dde0f4227,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,31
+7a7adc09-8727-4578-9523-fc83b6623c61,2 – Kernkomponenten,Hardware-Berechnungen,9733b0c6-b81c-46f2-aac5-567dde0f4227,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,5
+a4b747c3-6ebb-482c-8715-635c64f7c5da,3 – Peripherie,Hardware-Berechnungen,9733b0c6-b81c-46f2-aac5-567dde0f4227,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,12
+3be9d2e4-d091-4fb8-83b3-f3e5c0d5c0ee,4 – Speichertechnologien,Hardware-Berechnungen,9733b0c6-b81c-46f2-aac5-567dde0f4227,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,1
+116c5b16-f1ef-4a8c-9235-8a3356d5f12f,5 – Stromversorgung & USV,Hardware-Berechnungen,9733b0c6-b81c-46f2-aac5-567dde0f4227,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,5
+cdf42189-4df2-4851-b8cc-b22ccb223fce,Allgemein,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,94
+3e5226a7-7130-453c-a977-12fdaaecf191,Barrierefreiheit,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,7
+20bd56ce-eeed-4b74-9eb3-a085aa24a30e,Berechnung,Berechnungen,8aa51ebf-d8ce-411f-be36-5151402a98f7,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,5
+bd7ceeb4-f280-4e41-bddc-fe7bb6484977,Cloud & Virtualisierung,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,10
+aa8aa628-3197-4546-a3a7-f5672667a492,Datenschutz,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,21
+f7b72f8f-1500-4163-a8dc-ea928da343b5,Datenspeicherung,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,1
+6800005f-343f-4a1f-8427-c63eb77cf653,Ergonomie & Soziales,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,6
+0d79adb0-f1e2-4dc5-9424-45fe7d8c1107,Hardware,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,35
+70f84f79-99e0-4073-84df-81038de37170,IT-Service-Management,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,8
+2b58371d-a02b-4c32-8abe-4e52d056c9ae,IT-Sicherheit,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,31
+3b619fcf-262c-46aa-9401-9e2a632f04d6,Kommunikation,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,2
+70987d36-a722-4a78-89c0-dbf353b7be9f,Künstliche Intelligenz,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,12
+23fd8026-cecf-49ab-9219-877e13e3dd36,Nachhaltigkeit,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,14
+b9c28988-cfaf-446a-9e77-8d51f3f6bc96,Netzwerk,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,41
+414c3904-6305-4cca-bd0c-a58c6c06f174,Programmierung,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,15
+e7d48aa8-eceb-4d9c-99d0-be55072f9ddd,Projektmanagement,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,18
+8e211b19-bebd-4139-900b-77207dada86e,Systemadministration,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,7
+7960bf09-90ed-4641-86b0-924328cb93a5,WiSo Ausbildung & Arbeitsrecht,WiSo,c37a55d3-e981-4730-a048-cfc44e0e5e34,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,16
+be3d5f50-4202-4cb7-8f16-fd4bc2647357,WiSo Digitale Zusammenarbeit,WiSo,c37a55d3-e981-4730-a048-cfc44e0e5e34,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,5
+88e2a76b-6794-4355-a7b1-adf8c6c33b6c,WiSo Sicherheit & Umwelt,WiSo,c37a55d3-e981-4730-a048-cfc44e0e5e34,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,7
+c47762d5-0461-4743-8f27-30e139588359,WiSo Unternehmen & Wirtschaft,WiSo,c37a55d3-e981-4730-a048-cfc44e0e5e34,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,7
+1af14094-bb9c-4905-b8c2-ca68f37769b9,Wirtschaft,Fachbegriffe AP1,9c379323-eb36-4ce4-b932-da3fb736ba95,IHK AP1 – Anwendungsentwicklung / Systemintegration,88f401ab-5cfb-4c55-ad2c-40fa24ff4bc9,24
